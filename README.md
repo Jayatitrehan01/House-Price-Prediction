@@ -1,4 +1,4 @@
-# House-Price-Prediction
+# House Price Prediction
 This repository contains my work on data preprocessing and feature engineering using the Housing Price dataset, aimed at preparing the data for predictive modelling of house prices.
 
 OBJECTIVE
@@ -9,11 +9,11 @@ TASKS PERFORMED
 1. Data Cleaning
 Identified and filled in missing values using appropriate strategies:
 
-Median for numerical columns (e.g., LotFrontage)
+    Median for numerical columns (e.g., LotFrontage)
 
-Mode or "None" for categorical columns (e.g., GarageType, BsmtQual)
+    Mode or "None" for categorical columns (e.g., GarageType, BsmtQual)
 
-Removed irrelevant or duplicate records (if any)
+   Removed irrelevant or duplicate records (if any)
 
  2. Feature Engineering
 Created new features where necessary (e.g., total basement area, age of house)
