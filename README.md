@@ -2,7 +2,7 @@
 This repository contains my work on data preprocessing and feature engineering using the Housing Price dataset, aimed at preparing the data for predictive modelling of house prices.
 
 OBJECTIVE
-<be>
+
 To clean and transform the dataset to make it model-ready by handling missing values, encoding categorical variables, scaling features, and removing outliers.
 
 TASKS PERFORMED
